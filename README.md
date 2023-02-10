@@ -1,3 +1,3 @@
-# Cat Scanner
+# Dog Scanner
 
-## 고양이 스캐너
+## 강아지 스캐너
